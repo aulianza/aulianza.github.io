@@ -1,2 +1,5 @@
 # aulianza.github.io
-My Github Pages
+
+Ini halaman Github saya.
+
+email : hello@aulianza.com
