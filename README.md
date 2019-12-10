@@ -1,5 +1,5 @@
 # Welcome to my Github pages.
 
-Ini halaman Github saya.
+hello!
 
-email : hello@aulianza.com
+email : hello@aulianza.id
